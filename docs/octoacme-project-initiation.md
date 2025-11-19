@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Role assignment plan (identify PM, PdM, Scrum Master, and key contributors)
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Scrum Master (if applicable):
+  - Tech Lead / Developers:
+  - UX Designer (if needed):
+  - QA Lead:
+  - Release Manager (if complex deployment):
+  - Technical Writer (if docs-heavy):
+  - Customer Success liaison (if customer-facing):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
